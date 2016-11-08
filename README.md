@@ -1,5 +1,0 @@
-* Avro
-
-* Harrier
-
-* Hornet
